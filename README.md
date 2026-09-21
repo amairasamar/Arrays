@@ -1,2 +1,2 @@
 # Arrays
-All practiced arrays and C language files
+practiced arrays in c language
