@@ -2,6 +2,7 @@
 void main(){
     int arr[5];
     int sum=0;
+    int x=2;
 
 
      for(int i=0;i<=4;i++)
